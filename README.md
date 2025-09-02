@@ -17,3 +17,9 @@ Head to Launchpad and open the app as normal. You may need to allow some permiss
 You can now use the app. If you would like to uninstall the app then just drag it from the applications folder to the bin.
 
 # Enjoy!
+
+
+
+
+
+arch users == goofballs
