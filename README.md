@@ -1,5 +1,5 @@
 # handy-macOS-apps
-Welcome to the repo!
+Welcome to this repo!
 Here I make .app files for macOS that are essentially shortcuts for changing settings on your Mac computer. You can run them to save time rather than hunting around in the settings app
 
 The apps are essentially a few lines of applescript. I do not know how to code malware so yeah they should be fine. 
