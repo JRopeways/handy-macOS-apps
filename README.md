@@ -15,3 +15,5 @@ Warning: These apps are only compatible with macOS. I have no clue what they wou
 Head to Launchpad and open the app as normal. You may need to allow some permissions, but these are nessecary for the app to work so it is reccomended that you allow them.
 
 You can now use the app. If you would like to uninstall the app then just drag it from the applications folder to the bin.
+
+# Enjoy!
