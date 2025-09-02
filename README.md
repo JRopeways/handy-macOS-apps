@@ -1,6 +1,4 @@
 # handy-macOS-apps
-Some small applescript .app files that do things quicker than it would take to hunt around in Settings. 
-
 Welcome to the repo!
 Here I make .app files for macOS that are essentially shortcuts in changing certain settings on your Mac computer. You can run them to save time rather than looking for the options in settings
 
