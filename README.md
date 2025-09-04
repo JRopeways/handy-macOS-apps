@@ -1,6 +1,6 @@
 # handy-macOS-apps
 Welcome to this repo!
-Here I make .app files for macOS that are essentially shortcuts for changing settings on your Mac computer. You can run them to save time rather than hunting around in the settings app
+Here I* make .app files for macOS that are essentially shortcuts for changing settings on your Mac computer. You can run them to save time rather than hunting around in the settings app
 
 The apps are essentially a few lines of applescript. I do not know how to code malware so yeah they should be fine. 
 The apps are mainly tested on macOS 11 but should be compatible with newer macOS and older OSX versions. 
@@ -20,6 +20,6 @@ You can now use the app. If you would like to uninstall the app then just drag i
 
 
 
-
+*ok so it might be a bit of vibe coding bc I don't really know much applescript
 
 arch users == goofballs
