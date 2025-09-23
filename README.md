@@ -16,6 +16,13 @@ Head to Launchpad and open the app as normal. You may need to allow some permiss
 
 You can now use the app. If you would like to uninstall the app then just drag it from the applications folder to the bin.
 
+# Troubleshooting
+If you recieve an error looking something like "Apple could not verify "QuickScreenSettings" is free of malware, here is a workaround:
+1. Open the applications folder in finder.
+2. Find the app that you would like to open
+3. Right click the app and click "open anyway" Allow all popups
+This is because I'm not verified as a Mac Developer, the app is still perfectly safe to use because I literally do not know how to code malware
+
 # Enjoy!
 
 
