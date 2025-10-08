@@ -24,9 +24,6 @@ If you recieve an error looking something like "Apple could not verify "QuickScr
 This is because I'm not verified as a Mac Developer, the app is still perfectly safe to use because I literally do not know how to code malware
 
 # Enjoy!
+*ok so it might be a bit of vibe coding bc I don't really know much applescript, I do not believe that vibe coding is the way forward and that LLMs can write code better than any person can
 
 
-
-*ok so it might be a bit of vibe coding bc I don't really know much applescript
-
-arch users == goofballs
