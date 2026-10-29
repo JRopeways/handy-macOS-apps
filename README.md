@@ -7,5 +7,4 @@ The apps are mainly tested on macOS 11 but should be compatible with newer macOS
 Usually, installation for .app files involves moving them to the applications folder after unzipping them but workflows should install quite straightforwardly. 
 
 # Enjoy!
-I use Ubuntu btw (snapless)
-
+I use Fedora btw (Silverblue)
